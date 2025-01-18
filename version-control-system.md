@@ -13,3 +13,11 @@ storing version
 
 >backup
 >![image](https://github.com/user-attachments/assets/fb7ecb54-1b71-4fd1-9b55-b1358a6dac92)
+
+>>Analyze
+When you change version
+>>VCS provides you with proper description
+>>What exactly was changed
+>>When it was changed
+>>And hence, you can analyze how your project evolved
+between versions.
