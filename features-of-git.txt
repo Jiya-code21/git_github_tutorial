@@ -1,0 +1,47 @@
+>>Features of Git
+
+1). Distributed-->
+>> AIlows distributed development of code.
+>> Every developer has a local copy of the entire development history and changes are copied from one
+repository to another.
+
+2). Compatible-->
+>> Compatible with existing systems & protocols.
+>> SVN & SVK repositories can be directly accessed using Git-SVN.
+
+3). Non linear-->
+>> Supports non linear development of software.
+>> Includes various techniques to navigate & visualize non-linear development history.
+
+4). Branching-->
+>> It takes only a few seconds to create & merge branches.
+>> Master branch always contains production quality code.
+
+
+5). Lightweight-->
+>> uses lossless compression technique to compress data on the client's side.
+
+6). Speed
+>> Fetching data from local repository is 100 times faster than remote repository.
+>> GIT is one order of magnitude faster than other VCS tools.
+
+
+7). Open Source
+>> You can modify its source code according to your needs.
+
+8). Reliable -->
+>> On events of system crash, the lost data can be easily recovered from any of the local repositories of the
+collaborators.
+
+9). Secure-->
+>> Uses SHAI to name and identify objects.
+>> Every file & commit is checksummed and is retrieved by its checksum at time of checkout.
+
+10). Economical -->
+>> Released under GPL's license. It is for free.
+>> All heavy lifting is done on client-side, hence a lot of money can be saved on costly servers.
+
+
+
+
+
